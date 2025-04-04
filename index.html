@@ -6,9 +6,9 @@
   <script>
     const surveys = [
       "https://forms.gle/pindhNophfhWmcPh9",
-      "https://forms.gle/Vzi113f3t4YT5uD78",
-      "https://forms.gle/MooPEp1MrWdJRVke6",
-      "https://forms.gle/KLA9HYkkfYDXYssC9"
+      "https://forms.gle/DVHFMUiVXGuUG1Cx7",
+      "https://forms.gle/ChxZxKpaNvgGtZgi9",
+      "https://forms.gle/4x8o9NUQwMLbvXSWA"
     ];
 
     const randomIndex = Math.floor(Math.random() * surveys.length);
